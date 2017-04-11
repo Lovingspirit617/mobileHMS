@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MobileRMS.iml" filepath="$PROJECT_DIR$/MobileRMS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantManagementSystem/app.iml" filepath="$PROJECT_DIR$/RestaurantManagementSystem/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileHMS.iml" filepath="$PROJECT_DIR$/mobileHMS.iml" />
     </modules>
   </component>
 </project>
